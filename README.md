@@ -10,3 +10,11 @@ https://docs.google.com/document/d/1sqquHm8vMkQjyUm0RbgKGAZoIWhYTa_mrMu1cfYTZ9Y/
 # Demo Link 
 
 https://html.design/preview/?theme=famms
+
+# Git Bash Codes
+
+```
+git status
+git add
+git commit
+```
