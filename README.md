@@ -15,6 +15,7 @@ https://html.design/preview/?theme=famms
 
 ```
 git status
-git add
-git commit
+git add -A
+git commit -m "wenas karapu eka type karanna"
+git push -u -f origin <branch>
 ```
