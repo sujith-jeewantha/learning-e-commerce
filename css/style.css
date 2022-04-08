@@ -1,14 +1,36 @@
 
-p {
-    margin: 0 0 2em 0;
+.benefit-center {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, lfr));
+    gap: 80px;
 }
 
-h2 {
-    font-size: 1.75em;
-    line-height: 1.5em;
+.benefit {
+    border: 1px solid #ccc;
+    padding: 16px 16px 32px 16px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
 
-h3 {
-    font-size: 1.35em;
-    line-height: 1.5em;
+
+.benefit .icon {
+    color: #ff4321;
+    font-size: 64px;
+}
+
+.benefit h4 {
+    margin-bottom: 24px;
+    color: #777;
+}
+
+.benefit .text {
+    font-size: 24px;
+    color: #777;
+}
+
+.title-why-shop h2 {
+    margin-bottom: 24px;
+    color: black;
+
 }
