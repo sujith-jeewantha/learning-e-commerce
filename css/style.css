@@ -21,12 +21,14 @@
 
 .benefit h4 {
     margin-bottom: 24px;
-    color: #777;
+    # color: white;
+    color: black;
 }
 
 .benefit .text {
     font-size: 24px;
-    color: #777;
+    # color: white;
+    color: black;
 }
 
 .title-why-shop h2 {
@@ -44,6 +46,12 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 80px;
+# background-color: #002c3e;
+    
+
 }
 
-
+.text {
+    padding: auto;
+    padding-left: 10%;
+}
