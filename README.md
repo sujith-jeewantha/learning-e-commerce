@@ -13,6 +13,7 @@ https://html.design/preview/?theme=famms
 
 
 # Git Bash Codes
+read more https://www.geeksforgeeks.org/working-on-git-bash/?ref=lbp
 
 ```
 git status
