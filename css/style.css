@@ -35,3 +35,16 @@
 
 }
 
+.section {
+    padding: 160px 0 0 0;
+  }
+  
+
+.benefit-center {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 80px;
+}
+
+
+
