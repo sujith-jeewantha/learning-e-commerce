@@ -46,7 +46,7 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 80px;
-# background-color: #002c3e;
+  # background-color: #002c3e;
     
 
 }
@@ -55,3 +55,5 @@
     padding: auto;
     padding-left: 10%;
 }
+
+
