@@ -43,17 +43,24 @@ p {
   color: #555;
 }
 
-.col-2 {
+.container {
+  max-width: 1300px;
+  margin: auto;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.col-1 {
   flex-basis: 50%;
   min-width: 600px;
 }
 
-.col-2 img {
+.col-1 img {
   max-width: 200%;
   padding: 50px 0;
 }
 
-.col-2 h1 {
+.col-1 h1 {
   font-size: 50px;
   line-height: 60px;
   margin: 25px 0;
@@ -84,5 +91,36 @@ p {
 }
 
 
+.row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.col-2 {
+  flex-basis: 50%;
+  min-width: 300px;
+}
+
+.col-2 img {
+  max-width: 500%;
+  padding: 50px 0;
+}
+
+.col-2 h1 {
+  font-size: 50px;
+  line-height: 60px;
+  margin: 25px 0;
+}
+
+.btn {
+  display: inline-block;
+  background: #ff523b;
+  color: #fff;
+  padding: 8px 30px;
+  margin: 30px 0;
+  transition: background 0.5s;
+}
 
 
