@@ -98,20 +98,24 @@ p {
   justify-content: space-around;
 }
 
-.col-2 {
+.bg {
   flex-basis: 50%;
   min-width: 300px;
 }
 
-.col-2 img {
+.bg img {
   max-width: 500%;
   padding: 50px 0;
 }
 
-.col-2 h1 {
+.bg h1 {
   font-size: 50px;
   line-height: 60px;
   margin: 25px 0;
+}
+
+.bg .offer-img {
+  padding: 50px;    
 }
 
 .btn {
@@ -128,4 +132,8 @@ p {
 
 }
 
+h4 {
+  color: #555;
+  font-weight: normal;
+}
 
