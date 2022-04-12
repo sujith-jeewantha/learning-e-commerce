@@ -64,6 +64,25 @@ p {
   margin-top: 70px;
 }
 
+.title {
+  text-align: center;
+  margin: 0 auto 80px;
+  position: relative;
+  color: #555;
+}
+
+.title::after {
+  content: '';
+  background: #ff523b;
+  width: 80px;
+  height: 5px;
+  border-radius: 5px;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
 
 
 
