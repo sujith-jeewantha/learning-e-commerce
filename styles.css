@@ -123,4 +123,9 @@ p {
   transition: background 0.5s;
 }
 
+.btn:hover {
+  background: #563434;
+
+}
+
 
