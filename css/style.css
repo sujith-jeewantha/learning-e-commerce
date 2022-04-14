@@ -1,9 +1,4 @@
 
-.text {
-    padding: auto;
-    padding-left: 10%;
-}
-
 *{
     margin: 0;
     padding: 0;
@@ -103,25 +98,7 @@
     justify-content: space-around;
   }
   
-  .bg {
-    flex-basis: 50%;
-    min-width: 300px;
-  }
-  
-  .bg img {
-    max-width: 500%;
-    padding: 50px 0;
-  }
-  
-  .bg h1 {
-    font-size: 50px;
-    line-height: 60px;
-    margin: 25px 0;
-  }
-  
-  .bg .offer-img {
-    padding: 50px;    
-  }
+
   
   .btn {
     display: inline-block;
@@ -177,4 +154,26 @@
     margin: 12px 0;
     color: #777;
 }
-  
+
+.offer {
+    margin-top: 80px;
+    padding: 30px 0;
+}
+
+.col-2 .offer-img {
+    padding: 50px;    
+}
+
+small {
+    color: #555;
+}
+
+.col-boy {
+    flex-basis: 50%;
+    min-width: 300px;
+}
+
+.col-boy img {
+    max-width: 100%;
+    padding: 50px 0;
+}
