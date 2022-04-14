@@ -1,69 +1,7 @@
 
-.benefit-center {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(240px, lfr));
-    gap: 80px;
-}
-
-.benefit {
-    border: 1px solid #ccc;
-    padding: 16px 16px 32px 16px;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-}
-
-
-.benefit .icon {
-    color: #ff4321;
-    font-size: 64px;
-}
-
-.benefit h4 {
-    margin-bottom: 24px;
-    # color: white;
-    color: black;
-}
-
-.benefit .text {
-    font-size: 24px;
-    # color: white;
-    color: black;
-}
-
-.title-why-shop h2 {
-    margin-bottom: 24px;
-    color: black;
-
-}
-
-.section {
-    padding: 160px 0 0 0;
-  }
-  
-
-.benefit-center {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 80px;
-  # background-color: #002c3e;
-    
-
-}
-
 .text {
     padding: auto;
     padding-left: 10%;
-}
-
-
-.testimonial{
-    padding-top: 100px;
-}
-.testimonial .col-3{
-    text-align: center;
-    padding: 40px 20px;
-    box-shadow: 0 0 20px 0px; 
 }
 
 *{
@@ -204,4 +142,39 @@
     color: #555;
     font-weight: normal;
   }
+
+  /*---------------------small-container-------------------*/
+
+  .testimonial {
+    padding-top: 100px;
+}
+
+.testimonial .col-3 {
+    text-align: center;
+    padding: 40px 20px;
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: transform 0.5s;
+}
+
+.testimonial .col-3 img {
+    width: 50px;
+    margin-top: 20px;
+    border-radius: 50%;
+}
+
+.testimonial .col-3:hover{
+    transform: translateY(-10px);
+}
+
+.fa.fa-quote-left {
+    font-size: 34px;
+    color: #ff523b;
+}
+
+.col-3 p {
+    font-size: 12px;
+    margin: 12px 0;
+    color: #777;
+}
   
