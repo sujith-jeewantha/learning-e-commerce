@@ -1,14 +1,16 @@
 <!doctype html>
 <html lang="en">
-  <head>
+<head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+    <!-- font awesome cdn link  -->
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="css/styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
@@ -16,154 +18,164 @@
 
     <title>store</title>
 </head>
+
 <body>
-    <div class="super_container">
 
+<!-- header section starts  -->
 
+<header class="header">
 
-		<!------------ Header ------------>
+   <a href="#" class="logo"><img src="images/logo.png" width="200px"></a>
 
-		<header class="header trans_300">
+   <nav class="navbar">
+      <div id="close-navbar" class="fas fa-times"></div>
+      <a href="home.html">home</a>
+      <a href="about.html">about</a>
+      <a href="courses.html">courses</a>
+      <a href="contact.html">contact</a>
+   </nav>
 
+   <div class="icons">
+      <div id="account-btn" class="fas fa-user"></div>
+      <div id="menu-btn" class="fas fa-bars"></div>
+   </div>
 
-	   <!------------ main Navigation ------------->
-            <div class="header">
-                <div class="container">
-                    <div class="navbar">
-                        <div class="logo">
-                            <img src="images/logo.png" width="185px">
-                        </div>
-                        <nav>
-                            <ul id="MenuItems">
-                                <li><a href="">Home</a></li>
-                                <li><a href="">Pages</a></li>
-                                <li><a href="">About</a></li>
-                                <li><a href="">Blog</a></li>
-                                <li><a href="">Contact</a></li>
-                            </ul>
-                        </nav>
-                        <img src="images/favicon.png" width="30px" height="30px">
-                    </div>
-                </div>
-			</div>
-		</header>
+</header>
 
-		<!-------------------- main_slider --------------->
-<div class="main_slider" style="background-image: url(images/slider-bg.jpg);">
-	<div class="container fill_hight">
-		<div class="row align-items-center fill_hight">
-			<div class="col">
-				<div class="main_slider_content">
-					<h1>Sale 20% Off<br>On Everything</h1>
-					<p>Explicabo esse amet tempora quibusdam laudantium, laborum<br> 
-                        eaque magnam fugiat hic? Esse dicta aliquid error repudiandae<br>
-                        earum suscipit fugiat molestias, veniam, vel architecto veritatis<br>
-                        delectus repellat modi impedit sequi.</p>
-                        <a href="" class="btn">Shop Now</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
+<!-- home section -->
 
+<section class="home">
 
+   <div class="swiper home-slider">
+      
+      <div class="swiper-wrapper">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-
-<!---------------------small-container----------------------------------------->
-<div class="testimonial">
-    <div class="small-container">
-        <h2 class="title">Why Shop With Us</h2>
-        <div class="row">
-            <div class="col-3">
-                <img src="images/free.png">
-                <h3>Fast Delivery</h3>
-                <p>
-                    variations of passages of Lorem Ipsum available. 
-                </p>
+         <section class="swiper-slide slide" style="background: url(images/slider-bg.jpg) no-repeat;">
+            <div class="content">
+               <h3>Sale 20% Off On Everything</h3>
+               <p>Explicabo esse amet tempora quibusdam laudantium, laborum<br> 
+                  eaque magnam fugiat hic? Esse dicta aliquid error repudiandae<br>
+                  earum suscipit fugiat molestias, veniam, vel architecto veritatis<br>
+                  delectus repellat modi impedit sequi.</p>
+               <a href="#" class="btn">Shop Now</a>
             </div>
-            <div class="col-3">
-                <img src="images/shipped.png">
-                <h3>Free Shipping</h3>
-                <p>
-                    variations of passages of Lorem Ipsum available. 
-                </p>
-            </div>
-            <div class="col-3">
-                <img src="images/medal.png">
-                <h3>Best Quality</h3>
-                <p>
-                    variations of passages of Lorem Ipsum available. 
-                </p>
-            </div>
-        </div>
-    </div>
-</div>
+         </section>
 
-    
+         <!---
 
+         <section class="swiper-slide slide" style="background: url(images/home-slide-2.jpg) no-repeat;">
+            <div class="content">
+               <h3>Sale 20% Off On Everything</h3>
+               <p>Explicabo esse amet tempora quibusdam laudantium, laborum<br> 
+                  eaque magnam fugiat hic? Esse dicta aliquid error repudiandae<br>
+                  earum suscipit fugiat molestias, veniam, vel architecto veritatis<br>
+                  delectus repellat modi impedit sequi.</p>
+               <a href="#" class="btn">Shop Now</a>
+            </div>
+         </section>
 
-<!----------------offer-------------------------->
-<div class="offer">
-    <div class="small-container">
-        <div class="row">
-            <div class="col-boy">
-                <img src="images/arrival-bg.jpg" class="offer-img">
+         <section class="swiper-slide slide" style="background: url(images/home-slide-3.jpg) no-repeat;">
+            <div class="content">
+               <h3>Sale 20% Off On Everything</h3>
+               <p>Explicabo esse amet tempora quibusdam laudantium, laborum<br> 
+                  eaque magnam fugiat hic? Esse dicta aliquid error repudiandae<br>
+                  earum suscipit fugiat molestias, veniam, vel architecto veritatis<br>
+                  delectus repellat modi impedit sequi.</p>
+               <a href="#" class="btn">Shop Now</a>
             </div>
-            <div class="col-boy">
-                <h1>#NewArrivals</h1>
-                <small>Vitae fugiat laboriosam officia perferendis provident aliquid voluptatibus dolorem, fugit ullam sit earum id eaque nisi hic? Tenetur commodi, nisi rem vel, ea eaque ab ipsa, autem similique ex unde!
-                 </small><br>
-                 <a href="" class="btn">Shop Now</a>
-            </div>
-        </div>
-    </div>
-</div>
-    
-<!----------------footer-------------------------->    
-<div class="footer">
-    <div class="container">
-        <div class="row">
-            <div class="footer-col-1">
-            </div>
-            <div class="footer-col-4">
-                <h3>Follow US</h3>
-                <ul>
-                    <li>Facebook</li>
-                    <li>Twwiter</li>
-                    <li>Instergram</li>
-                    <li>Youtube</li>
-                </ul>
-            </div>
-        </div>
-        <hr>
-        <p class="copyright">@copyright 2022 - Naveen</p>
-            
-    </div>
-</div>
-    
+         </section>
+
+-->
+      </div>
+
+      <div class="swiper-pagination"></div>
+
+   </div>
+
+</section>
+
+<!-- subjects section  -->
+
+<section class="subjects">
+
+   <h1 class="heading">Why Shop With Us</h1>
+
+   <div class="box-container">
+
+      <div class="box">
+         <img src="images/free.png" alt="">
+         <h3>Fast Delivery</h3>
+         <p>variations of passages of Lorem<br> Ipsum available.</p>
+      </div>
+
+      <div class="box">
+         <img src="images/shipped.png" alt="">
+         <h3>Free Shipping</h3>
+         <p>variations of passages of Lorem<br> Ipsum available.</p>
+      </div>
+
+      <div class="box">
+         <img src="images/medal.png" alt="">
+         <h3>Best Quality</h3>
+         <p>variations of passages of Lorem<br> Ipsum available.</p>
+      </div>
+   </div>
+
+</section>
+
+<!-- footer section  -->
+
+<section class="footer">
+
+   <div class="box-container">
+
+      <div class="box">
+         <h3> <i class=""></i> Famms </h3>
+         <p>ADDRESS: 28 White tower, Street Name New York City, USA</p>
+         <p>TELEPHONE: +91 987 654 3210</p>
+         <p>EMAIL: yourmain@gmail.com</p>
+      </div>
+
+      <div class="box">
+         <h3>MENU</h3>
+         <a href="home.html" class="link">home</a>
+         <a href="about.html" class="link">about</a>
+         <a href="courses.html" class="link">Services</a>
+         <a href="contact.html" class="link">Testimonial</a>
+         <a href="contact.html" class="link">Blog</a>
+         <a href="contact.html" class="link">contact</a>
+      </div>
+
+      <div class="box">
+         <h3>ACCOUNT</h3>
+         <a href="#" class="link">Account</a>
+         <a href="#" class="link">Chechout</a>
+         <a href="#" class="link">Login</a>
+         <a href="#" class="link">Register</a>
+         <a href="#" class="link">Shopping</a>
+         <a href="#" class="link">Widget</a>
+      </div>
+
+      <div class="box">
+         <h3>NEWSLETTER</h3>
+         <p>Subscribe by our newsletter and get update protidin.</p>
+         <form action="">
+            <input type="email" name="" placeholder="enter your email" id="" class="email">
+            <input type="submit" value="subscribe" class="btn">
+         </form>
+      </div>
+
+   </div>
+
+   <div class="credit"> 2022 <span>@</span> | all rights reserved! </div>
+
+</section>
+
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-  </body>
+</body>
 </html>
