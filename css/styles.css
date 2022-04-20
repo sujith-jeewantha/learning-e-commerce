@@ -198,6 +198,11 @@ section {
 }
 
 
+#content-color{
+  color: #ff523b;
+}
+
+
 .subjects .box-container {
   display: -ms-grid;
   display: grid;
