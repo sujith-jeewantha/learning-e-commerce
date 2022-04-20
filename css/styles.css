@@ -1,4 +1,6 @@
+
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600&display=swap");
+
 * {
   font-family: 'Nunito', sans-serif;
   margin: 0;
@@ -199,7 +201,7 @@ section {
 .subjects .box-container {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: (minmax(16rem, 1fr))[auto-fit];
+  -ms-grid-columns: (minmax(16rem, 1fr)) [auto-fit];
   grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
   gap: 2rem;
 }
@@ -267,7 +269,7 @@ section {
 .footer .box-container {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: (minmax(25rem, 1fr))[auto-fit];
+  -ms-grid-columns: (minmax(25rem, 1fr)) [auto-fit];
   grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
   gap: 2rem;
 }
