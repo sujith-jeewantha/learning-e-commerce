@@ -229,7 +229,7 @@ section {
 .subjects .box-container .box img {
   height: 8rem;
   margin-bottom: .7rem;
-  color: rgb(255, 255, 255);
+  color: white;
 }
 
 .subjects .box-container .box h3 {
@@ -263,7 +263,7 @@ section {
 /*---------footer-----------*/
 
 .footer {
-  background: #e6e4e3;
+  background: #f2f1f0;
 }
 
 .footer .box-container {
