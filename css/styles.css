@@ -254,6 +254,19 @@ section {
 
 /*---------offer-----------*/
 
+.arrival_section {
+  background-color: #d4ced0;
+}
+
+.arrival_section .box {
+  padding: 120px 45px;
+  position: relative;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
 
 /*---------footer-----------*/
 
