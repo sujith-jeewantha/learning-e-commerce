@@ -264,8 +264,8 @@ section {
 }
 
 .arrival_bg{
-  width: 655px;
-  height: auto;
+  width: 795px;
+  height: 432px;
 }
 
 .ml-auto{
@@ -290,13 +290,21 @@ section {
 }
 
 .arrival_section  {
-  padding:20px 45px;
+  padding:78px 259px;
   position: relative;
 }
+
 
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-size: large;
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 50px;
 }
 
 
