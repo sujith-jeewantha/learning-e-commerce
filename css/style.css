@@ -72,6 +72,8 @@ section {
   font-size: 3.5rem;
   text-transform: capitalize;
   color: #444;
+  padding: 50px;
+
 }
 
 .btn {
@@ -255,6 +257,22 @@ section {
 /*---------offer-----------*/
 
 
+.arrival_bg_box{
+  width: 100%;
+  float: left;
+  height: 150px;
+}
+
+.arrival_bg{
+  width: 655px;
+  height: auto;
+}
+
+.ml-auto{
+  float: left;
+  width: 300px;
+}
+
 .heading::after {
   content: '';
   background: #ff523b;
@@ -271,8 +289,8 @@ section {
   background-color: #d4ced0;
 }
 
-.arrival_section .box {
-  padding: 120px 45px;
+.arrival_section  {
+  padding:20px 45px;
   position: relative;
 }
 
@@ -376,3 +394,7 @@ p {
 .footer .credit span {
   color: #b55c0e;
 }
+
+
+/*----------------------------------------*/
+
