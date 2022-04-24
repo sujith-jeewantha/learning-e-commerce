@@ -90,6 +90,10 @@ section {
   border: solid  #ff523b;
 }
 
+.btn-view{
+  text-align: center;
+}
+
 
 .header {
   position: -webkit-sticky;
