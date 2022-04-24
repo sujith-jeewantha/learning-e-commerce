@@ -72,13 +72,15 @@ section {
   font-size: 3.5rem;
   text-transform: capitalize;
   color: #444;
+  padding: 50px;
+
 }
 
 .btn {
   display: inline-block;
   background: #ff523b;
   color: #fff;
-  padding: 12px 30px;
+  padding: 12px 50px;
   margin: 30px 0;
   transition: background 0.5s;
 }
@@ -255,6 +257,22 @@ section {
 /*---------offer-----------*/
 
 
+.arrival_bg_box{
+  width: 100%;
+  float: left;
+  height: 150px;
+}
+
+.arrival_bg{
+  width: 795px;
+  height: 432px;
+}
+
+.ml-auto{
+  float: left;
+  width: 300px;
+}
+
 .heading::after {
   content: '';
   background: #ff523b;
@@ -271,15 +289,43 @@ section {
   background-color: #d4ced0;
 }
 
-.arrival_section .box {
-  padding: 120px 45px;
+.arrival_section  {
+  padding:78px 259px;
   position: relative;
 }
+
 
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-size: large;
 }
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 50px;
+}
+
+
+/*---------small-container------------*/
+
+.row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 70px;
+}
+
+
+.small-container {
+  max-width: 1080px;
+  margin: auto;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+  
 
 /*---------footer-----------*/
 
@@ -356,3 +402,7 @@ p {
 .footer .credit span {
   color: #b55c0e;
 }
+
+
+/*----------------------------------------*/
+
