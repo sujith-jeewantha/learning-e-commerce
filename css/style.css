@@ -92,6 +92,7 @@ section {
 
 .btn-view{
   text-align: center;
+  border-radius: 50%;
 }
 
 
@@ -329,7 +330,16 @@ h2 {
   padding-left: 25px;
   padding-right: 25px;
 }
-  
+
+
+/*---------Subscribe section-----------*/
+
+.row-1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
 
 /*---------footer-----------*/
 
