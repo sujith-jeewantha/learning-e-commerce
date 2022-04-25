@@ -76,6 +76,7 @@ section {
 
 }
 
+
 .btn {
   display: inline-block;
   background: #ff523b;
@@ -210,6 +211,8 @@ section {
 }
 
 
+/*----------subjects section-----------*/
+
 .subjects .box-container {
   display: -ms-grid;
   display: grid;
@@ -331,7 +334,6 @@ h2 {
   padding-right: 25px;
 }
 
-
 /*---------Subscribe section-----------*/
 
 .row-1 {
@@ -339,6 +341,13 @@ h2 {
   align-items: center;
   justify-content: space-around;
 }
+
+
+
+/*--------Customer's Testimonia---------*/
+
+
+
 
 
 /*---------footer-----------*/
