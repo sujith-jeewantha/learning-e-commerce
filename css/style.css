@@ -342,11 +342,24 @@ h2 {
   justify-content: space-around;
 }
 
+.Subscribe-btn {
+  background-color:#ff523b;
+  border-radius:28px;
+  border:1px solid #ff523b;
+  display:inline-block;
+  color:#ffffff;
+  font-size:17px;
+  padding:10px 96px;
+  text-decoration:none;
+}
 
 
 /*--------Customer's Testimonia---------*/
 
-
+.client-pic{
+  border-radius: 50%;
+  align-items: center;
+}
 
 
 
