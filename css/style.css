@@ -77,6 +77,19 @@ section {
 }
 
 
+
+.containerRedBox {
+  height: 150px;
+  background: #ff523b;
+}
+.text {
+  display: block;
+  line-height: 150px; 
+  text-align: center;
+  color: #f2f1f0;
+}
+
+
 .btn {
   display: inline-block;
   background: #ff523b;
