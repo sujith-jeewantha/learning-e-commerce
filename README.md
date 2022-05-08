@@ -5,10 +5,6 @@ CSS CheatSheet Added😎👇
 
 WEB DEVELOPMENT COURSE 👇
 
-# Super Site
-https://css-tricks.com/
-
-
 # requirement
 
 https://docs.google.com/document/d/1sqquHm8vMkQjyUm0RbgKGAZoIWhYTa_mrMu1cfYTZ9Y/edit
@@ -53,6 +49,9 @@ git pull  <== ( pull request eka merge klama aluth changes tika merge
 
 👉https://mega.nz/folder/Q4kUyCYJ
  ```5vGwNweX2by4x1ahNWs7yA```
+ 
+# Super Site
+https://css-tricks.com/
 
 
 # CSS CheatSheet
