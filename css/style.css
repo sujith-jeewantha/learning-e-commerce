@@ -87,6 +87,7 @@ section {
   line-height: 150px; 
   text-align: center;
   color: #f2f1f0;
+  font-size: 50px;
 }
 
 
@@ -286,7 +287,7 @@ section {
 
 .arrival_bg{
   width: 795px;
-  height: 432px;
+  height: 412px;
 }
 
 .ml-auto{
