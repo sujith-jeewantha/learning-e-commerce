@@ -370,6 +370,12 @@ h2 {
 
 /*--------Customer's Testimonia---------*/
 
+.img_testimonial{
+  align-items: center;
+  padding-left: 40%;
+  padding-bottom: 60px;
+}
+
 .client-pic{
   border-radius: 50%;
   align-items: center;
