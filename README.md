@@ -54,7 +54,7 @@ git pull  <== ( pull request eka merge klama aluth changes tika merge
 https://css-tricks.com/
 
 
-> ## Supporters
+> ## Contributors
 
 ![Contributors](https://contrib.rocks/image?repo=sujith-jeewantha/learning-e-commerce)
 
