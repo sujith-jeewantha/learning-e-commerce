@@ -5,17 +5,17 @@ CSS CheatSheet Added😎👇
 
 WEB DEVELOPMENT COURSE 👇
 
-# requirement
+> ## requirement
 
 https://docs.google.com/document/d/1sqquHm8vMkQjyUm0RbgKGAZoIWhYTa_mrMu1cfYTZ9Y/edit
 
 
-# Demo Link 
+> ## Demo Link 
 
 https://html.design/preview/?theme=famms
 
 
-# Git Bash Codes
+> ## Git Bash Codes
 read more https://www.geeksforgeeks.org/working-on-git-bash/?ref=lbp
 
 ```
@@ -38,7 +38,7 @@ git push -u origin test_branch   <== (branch eka github ekata push karanawa )
 git pull  <== ( pull request eka merge klama aluth changes tika merge
 ```
 
-# ✅CODE WITH MOSH WEB DEVELOPMENT COURSE
+> ## ✅CODE WITH MOSH WEB DEVELOPMENT COURSE
 
 👉https://mega.nz/folder/8xk2WAaR
  ```5P0XhPSdKFk492VFBkIa3g```
@@ -50,11 +50,16 @@ git pull  <== ( pull request eka merge klama aluth changes tika merge
 👉https://mega.nz/folder/Q4kUyCYJ
  ```5vGwNweX2by4x1ahNWs7yA```
  
-# Super Site
+> ## Super Site
 https://css-tricks.com/
 
 
-# CSS CheatSheet
+> ## Contributors
+
+![Contributors](https://contrib.rocks/image?repo=sujith-jeewantha/learning-e-commerce)
+
+
+> ## CSS CheatSheet
 ![image](https://user-images.githubusercontent.com/82176749/163332114-4bb30f45-3875-4cdc-ba52-17b1f6569ef9.png)
 
 <!- https://www.w3schools.com/  | https://www.freecodecamp.org/->

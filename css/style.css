@@ -87,6 +87,7 @@ section {
   line-height: 150px; 
   text-align: center;
   color: #f2f1f0;
+  font-size: 50px;
 }
 
 
@@ -274,6 +275,12 @@ section {
 }
 
 
+.png-bg {
+  width: 55px;
+  height: auto;
+  fill: #ffffff;
+}
+
 
 /*---------offer-----------*/
 
@@ -286,7 +293,7 @@ section {
 
 .arrival_bg{
   width: 795px;
-  height: 432px;
+  height: 412px;
 }
 
 .ml-auto{
@@ -369,9 +376,24 @@ h2 {
 
 /*--------Customer's Testimonia---------*/
 
+.img_testimonial{
+  align-items: center;
+  padding-left: 45%;
+  padding-bottom: 60px;
+}
+
 .client-pic{
   border-radius: 50%;
   align-items: center;
+}
+
+h1::after {
+  content: "";
+  display: block;
+  width: 70px;
+  height: 5px;
+  background: #f7444e;
+  margin: 10px auto 10px;
 }
 
 
