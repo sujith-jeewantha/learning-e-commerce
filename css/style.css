@@ -396,7 +396,9 @@ h1::after {
   margin: 10px auto 10px;
 }
 
-
+.d-md-block{
+  color: #0b162c;
+}
 
 
 
