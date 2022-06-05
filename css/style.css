@@ -400,6 +400,10 @@ h1::after {
   color: #0b162c;
 }
 
+.w-10{
+  align-items: center;
+}
+
 
 
 /*---------footer-----------*/
