@@ -376,13 +376,13 @@ h2 {
 
 /*--------Customer's Testimonia---------*/
 
-.img_testimonial{
+.carousel-item{
   align-items: center;
   padding-left: 45%;
   padding-bottom: 60px;
 }
 
-.client-pic{
+.d-block{
   border-radius: 50%;
   align-items: center;
 }
