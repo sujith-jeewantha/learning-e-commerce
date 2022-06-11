@@ -15,6 +15,17 @@ https://docs.google.com/document/d/1sqquHm8vMkQjyUm0RbgKGAZoIWhYTa_mrMu1cfYTZ9Y/
 https://html.design/preview/?theme=famms
 
 
+> ## other links
+
+[w3schools](https://www.w3schools.com/)
+
+
+[freecodecamp](https://www.freecodecamp.org/)
+
+
+[css-tricks](https://css-tricks.com/)
+
+
 > ## Git Bash Codes
 read more https://www.geeksforgeeks.org/working-on-git-bash/?ref=lbp
 
@@ -49,18 +60,9 @@ git pull  <== ( pull request eka merge klama aluth changes tika merge
 
 👉https://mega.nz/folder/Q4kUyCYJ
  ```5vGwNweX2by4x1ahNWs7yA```
- 
-> ## Super Site
-https://css-tricks.com/
 
 
 
 > ## CSS CheatSheet
 ![image](https://user-images.githubusercontent.com/82176749/163332114-4bb30f45-3875-4cdc-ba52-17b1f6569ef9.png)
 
-> ## other links
-
-[w3schools](https://www.w3schools.com/)
-
-
-[freecodecamp](https://www.freecodecamp.org/)
