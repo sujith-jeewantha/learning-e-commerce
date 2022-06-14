@@ -9,11 +9,11 @@ body {
 }
 
 #title {
-    background-color: #d57d8a;
-    color: #fff;
+    background-color: #e3e3e3;
+    color: rgb(221, 32, 32);
 }
 
-.header_img {
+.header-img {
     height: 100vh;
     position: relative;
     display: flex;
