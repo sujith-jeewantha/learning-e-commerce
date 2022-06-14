@@ -151,82 +151,20 @@ p {
     background: #f2f1f0;
 }
 
-#footer-html {
-    font-size: 62.5%;
-    overflow-x: hidden;
-}
-
-#footer-address {
-    color: black;
-    font-size: 16px;
-}
-
-.section-footer {
-    padding: 5rem 10%;
+#button-addon1 {
+    color: #ffc371;
 }
   
-.footer .box-container {
-    display: -ms-grid;
-    display: grid;
-    -ms-grid-columns: (minmax(25rem, 1fr)) [auto-fit];
-    grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
-    gap: 2rem;
-}
-
-
-.footer .box-container .box h3 {
-    font-size: 2.2rem;
-    text-transform: capitalize;
-    color: #444;
-    padding: 1rem 0;
-}
-
-.footer .box-container .box .share {
-    margin-top: 1rem;
+i {
+    color: #ffc371;
 }
   
-.footer .box-container .box .share a:hover {
-    background-color: #444;
-}
-
-.footer .box-container .box .link {
-    font-size: 1.7rem;
-    line-height: 2;
-    color: #777;
-    padding: .5rem 0;
-    display: block;
+.form-control::placeholder {
+    font-size: 0.95rem;
+    color: #aaa;
+    font-style: italic;
 }
   
-.footer .box-container .box .link:hover {
-    color: #9fa8a5;
-    text-decoration: underline;
-}
-
-.footer .box-container .box p {
-    font-size: 1.5rem;
-    line-height: 2;
-    color: #777;
-    padding: 1rem 0;
-}
-  
-.footer .box-container .box .email {
-    width: 100%;
-    padding: 1.2rem 1.4rem;
-    font-size: 1.6rem;
-    border: 0.1rem solid #787171;
-    margin-bottom: 1rem;
-}
-
-.footer .credit {
-    text-align: center;
-    margin-top: 3rem;
-    padding-top: 3rem;
-    font-size: 2rem;
-    text-transform: capitalize;
-    color: #444;
-    border-top: 0.1rem solid black;
-}
-  
-.footer .credit span {
-    color: #b55c0e;
+.form-control.shadow-0:focus {
+    box-shadow: none;
 }
