@@ -6,11 +6,6 @@ html {
   overflow-x: hidden;
 }
 
-.section-footer {
-  padding: 5rem 10%;
-}
-
-
 body {
     font-family: 'Montserrat', sans-serif;
 }
@@ -162,6 +157,10 @@ p {
 #footer-address {
     color: black;
     font-size: 16px;
+}
+
+.section-footer {
+    padding: 5rem 10%;
 }
   
 .footer .box-container {
