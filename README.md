@@ -7,7 +7,7 @@ WEB DEVELOPMENT COURSE 👇
 
 > ## requirement
 
-https://docs.google.com/document/d/1sqquHm8vMkQjyUm0RbgKGAZoIWhYTa_mrMu1cfYTZ9Y/edit
+[Google docs](https://docs.google.com/document/d/1sqquHm8vMkQjyUm0RbgKGAZoIWhYTa_mrMu1cfYTZ9Y/edit)
 
 
 > ## Demo Link 
