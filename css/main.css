@@ -167,3 +167,11 @@ p {
     color: #444;
     padding: 1rem 0;
 }
+
+.footer .box-container .box .share {
+    margin-top: 1rem;
+}
+  
+.footer .box-container .box .share a:hover {
+    background-color: #444;
+}
