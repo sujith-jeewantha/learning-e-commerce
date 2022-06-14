@@ -151,6 +151,11 @@ p {
     background: #f2f1f0;
 }
 
+#footer-html {
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+
 #footer-address {
     color: black;
     font-size: 16px;
