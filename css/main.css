@@ -175,3 +175,16 @@ p {
 .footer .box-container .box .share a:hover {
     background-color: #444;
 }
+
+.footer .box-container .box .link {
+    font-size: 1.7rem;
+    line-height: 2;
+    color: #777;
+    padding: .5rem 0;
+    display: block;
+}
+  
+.footer .box-container .box .link:hover {
+    color: #9fa8a5;
+    text-decoration: underline;
+}
