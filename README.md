@@ -12,7 +12,7 @@ WEB DEVELOPMENT COURSE 👇
 
 > ## Demo Link 
 
-https://html.design/preview/?theme=famms
+[HTML Template](https://html.design/preview/?theme=famms)
 
 
 > ## other links
