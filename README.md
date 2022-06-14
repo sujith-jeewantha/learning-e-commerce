@@ -7,12 +7,12 @@ WEB DEVELOPMENT COURSE 👇
 
 > ## requirement
 
-https://docs.google.com/document/d/1sqquHm8vMkQjyUm0RbgKGAZoIWhYTa_mrMu1cfYTZ9Y/edit
+[Google docs](https://docs.google.com/document/d/1sqquHm8vMkQjyUm0RbgKGAZoIWhYTa_mrMu1cfYTZ9Y/edit)
 
 
 > ## Demo Link 
 
-https://html.design/preview/?theme=famms
+[HTML Template](https://html.design/preview/?theme=famms)
 
 
 > ## other links
