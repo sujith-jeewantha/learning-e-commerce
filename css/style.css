@@ -376,13 +376,13 @@ h2 {
 
 /*--------Customer's Testimonia---------*/
 
-.img_testimonial{
+.carousel-item{
   align-items: center;
   padding-left: 45%;
   padding-bottom: 60px;
 }
 
-.client-pic{
+.d-block{
   border-radius: 50%;
   align-items: center;
 }
@@ -394,6 +394,40 @@ h1::after {
   height: 5px;
   background: #f7444e;
   margin: 10px auto 10px;
+}
+
+.d-md-block{
+  color: #0b162c;
+}
+
+
+/* Testimonials Section  */
+
+#testimonials {
+  text-align: center;
+  background-color: #ffadad;
+  color: rgb(0, 0, 0);
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
 }
 
 
